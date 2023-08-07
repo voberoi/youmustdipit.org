@@ -100,6 +100,8 @@ Try to use less ripe, crunchier peaches.
 
 {{< figure src="/images/you-must-dip-it-2023/tomato-mush.jpg" title="Tomato Mush by Seth" width="500px" >}}
 
+Inspired by the tomato dinner, Seth made a muhamarra using the New York Times Cooking recipe but added in a bunch of tomatoes from the CSA box that has been providing him with a burdensome amount of vegetables all summer.
+
 **Matt's Tasting Notes:**
 > there was a flavor in here reminiscent of charoset which, as a Jew, made me smile. I thought it could’ve been more interestingly seasoned but overall a solid effort.
 
