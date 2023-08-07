@@ -1,3 +1,10 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://youmustdipit.org'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+theme = "etch"
+title = "You Must Dip It: Brooklyn's Premier Dip-off"
+
+[markup.goldmark.renderer]
+  unsafe = true # Allow HTML in md files
+
+[params]
+  description = "You Must Dip It is Brooklyn's Premier Dip-off, hosted by Vikram Oberoi and Katie Brookoff."
