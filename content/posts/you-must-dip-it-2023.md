@@ -3,6 +3,8 @@ title: "You Must Dip It: 2023"
 date: 2023-08-06T21:46:50-04:00
 ---
 
+{{< toc >}}
+
 The inaugural You Must Dip It was held on Sunday, August 6th, 2023 on Vanderbilt Open Streets in Prospect Heights, Brooklyn.
 
 It was a smashing success. 

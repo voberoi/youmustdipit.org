@@ -1,10 +1,31 @@
 baseURL = 'https://youmustdipit.org'
 languageCode = 'en-us'
 theme = "etch"
-title = "You Must Dip It: Brooklyn's Premier Dip-off"
+title = "You Must Dip It: A Dip-Off"
 
 [markup.goldmark.renderer]
   unsafe = true # Allow HTML in md files
 
 [params]
   description = "You Must Dip It is Brooklyn's Premier Dip-off, hosted by Vikram Oberoi and Katie Brookoff."
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "posts"
+    title = "posts"
+    url = "/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "about"
+    name = "about"
+    title = "about"
+    url = "/about/"
+    weight = 20
+
+[markup]
+  [markup.tableOfContents]
+    endLevel = 3
+    ordered = true
+    startLevel = 1
